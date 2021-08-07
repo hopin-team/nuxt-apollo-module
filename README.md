@@ -1,3 +1,6 @@
+** THIS BRANCH IS PATCHED AND CONTAINS THE DIST FILES **
+
+
 # Apollo inside of NuxtJS
 
 * Nuxt.js module to use [vue-apollo](https://github.com/Akryum/vue-apollo)
